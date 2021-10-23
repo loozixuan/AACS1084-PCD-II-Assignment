@@ -1,0 +1,50 @@
+S0001
+Wong Jia Yee
+12345678
+01132456778
+Manager
+S0002
+Hoo Jia Ching
+246810
+01122336789
+Director
+S0003
+Chong Wei Lon
+00001111
+0123456688
+Administrator
+S0004
+Yap Jia Hin
+56788765
+01123329988
+Student
+S0005
+Lee Le Yee
+2222222
+0183455978
+Student
+S0006
+Siew Yee Er
+88888
+0192345678
+Student
+S0007
+Siow Zi Wei
+67235609
+01156340099
+Student
+S0008
+Chong Bi Ling
+980706
+0125634907
+Director
+S0009
+Siow Kent Hong
+1314678
+0169334570
+Student
+S0010
+Eng Yong Kang
+00115566
+01166773450
+Student

@@ -1,0 +1,2 @@
+19WMD01225	B0001	Booked	 6/ 1/2020  10: 0 to 12: 0	F0001	Sport Complex	Badminton Court 1	4
+a001	B0002	Booked	 6/ 1/2020  13: 0 to 15: 0	F0001	Sport Complex	Badminton Court 1	4

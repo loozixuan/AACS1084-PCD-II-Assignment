@@ -1,0 +1,30 @@
+﻿  SportFacilitySystem.c
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(663): warning C4101: 'selection': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(776): warning C4101: 'cont': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(776): warning C4101: 'modifyConfirm': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(1114): warning C4101: 'searchUser': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(1255): warning C4101: 'modification': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2331): warning C4473: 'fprintf' : not enough arguments passed for format string
+  c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2331): note: placeholders and their parameters expect 8 variadic arguments, but 7 were provided
+  c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2331): note: the missing variadic argument 8 is required by format string '%s'
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2311): warning C4101: 'name': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2312): warning C4101: 'max': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2312): warning C4101: 'year': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2311): warning C4101: 'ic': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2312): warning C4101: 'month': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2312): warning C4101: 'day': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2296): warning C4101: 'fp_tmp': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2378): warning C4101: 'eTimeM': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2378): warning C4101: 'sTimeH': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2378): warning C4101: 'eTimeH': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2378): warning C4101: 'sTimeM': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2506): warning C4047: '==': 'int' differs in levels of indirection from 'char [6]'
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2483): warning C4101: 'year': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2483): warning C4101: 'maxD': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2484): warning C4101: 'court': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2483): warning C4101: 'month': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2483): warning C4101: 'day': unreferenced local variable
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(568): warning C4715: 'facilityMain': not all control paths return a value
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(1481): warning C4716: 'bookingMain': must return a value
+c:\users\zixua\source\repos\aacs1084 pcd ii\aacs1084 pcd ii\sportfacilitysystem.c(2356): warning C4715: 'addA': not all control paths return a value
+  AACS1084 PCD II.vcxproj -> C:\Users\zixua\source\repos\AACS1084 PCD II\Debug\AACS1084 PCD II.exe
